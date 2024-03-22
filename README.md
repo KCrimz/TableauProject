@@ -6,17 +6,18 @@
 
 <h2>Languages and Utilities Used</h2>
 
--Data Amalyssis with tableau
+- <b>Data Amalyssis with tableau</b>
 
 <h2>Skills:</h2> 
 
--<b>Windows 10</b>
+- <b>Windows 10</b>
 
--<b>Tableau</b>
--<b>Merging CSV files (I used python)</b>
+- <b>Tableau</b>
+- <b>Merging CSV files (I used python)</b>
 
 <h2>Resources:</h2> 
 
 <p> Airbnb data sets here: http://insideairbnb.com/get-the-data/ </p>
 
-<h2>Lab:</h2> 
+<h2>Walk Through:</h2>
+
