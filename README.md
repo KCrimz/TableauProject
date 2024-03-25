@@ -11,9 +11,8 @@
 <h2>Skills:</h2> 
 
 - <b>Windows 10</b>
-
 - <b>Tableau</b>
-- <b>Merging CSV files (I used CMD)</b>
+
 
 <h2>Resources:</h2> 
 
